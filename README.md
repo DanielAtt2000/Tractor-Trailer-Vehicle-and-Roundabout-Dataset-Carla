@@ -11,7 +11,7 @@ The artefacts were developed using Carla 0.9.12, Unreal Engine 4.26, and Linux 1
 
 ## Tractor-Trailer Vehicle
 A tractor-trailer vehicle was developed based on work of Frank Engles found [here](https://github.com/frankeng/CarlaSemiTruckTrailer).
-This updated model fixed all the issues mentioned by Frank and has no known bugs. The instruction provided by Engles should be used to include tractor-trailer vehicle in CARLA.
+This updated model fixed all the issues mentioned by Frank and has no known bugs. The instructions provided by Engles should be used to include tractor-trailer vehicle in CARLA.
 
 The files related to the tractor-trailer vehicle can be found under the *carla/Unreal/CarlaUE4/Content/Carla* directory. 
 
